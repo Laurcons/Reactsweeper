@@ -1,3 +1,8 @@
+
+# Reactsweeper
+
+Just a fun project i've made to learn React. Available live at [my site](https://laurcons.ro/projects/play/reactsweeper/v1.0/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
